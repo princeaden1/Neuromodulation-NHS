@@ -16,6 +16,6 @@
 
 
 Please note that localhost/NEUROMODULATION-NHS on the site address will vary compare to how you are loading the website, in summary
-1. Patient will fill the form form index.php
+1. Patient will fill the form from the file index.php
 2. Admin will login with admin.php
 3. Admin can view, edit and delete PATIENT FORM
