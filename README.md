@@ -1,5 +1,5 @@
 # NEURO MODULATION USING PHP (NO FRAMEWORK) + JQUEYR + MSSQL + IIS 
-###Database File
+### Database File
 1. Locate database folder
 2. choose database.sql
 3. Execute the query on SQL Management Server
