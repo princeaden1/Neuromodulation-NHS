@@ -15,7 +15,7 @@
 2. Admin Login localhost/NEUROMODULATION-NHS/admin.php
 
 
-Please note that localhost/NEUROMODULATION-NHS on the site address, in summary
+Please note that localhost/NEUROMODULATION-NHS on the site address will vary compare to how you are loading the website, in summary
 1. Patient will fill the form form index.php
 2. Admin will login with admin.php
 3. Admin can view, edit and delete PATIENT FORM
